@@ -1,6 +1,6 @@
 package ch4_more_OOP.polymorphism.parametric.simplelist;
 
-class Node<T> {
+public class Node<T> {
     private Node<T> next;
     private T value;
 
